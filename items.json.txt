@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Warm Wool Blanket", "description": "A soft, warm blanket perfect for cold nights.", "quantity": 5 },
+  { "id": 2, "name": "Durable Backpack",     "description": "Sturdy backpack for carrying essentials.",    "quantity": 3 },
+  { "id": 3, "name": "Winter Coat",          "description": "Insulated coat size L.",                   "quantity": 2 }
+]
